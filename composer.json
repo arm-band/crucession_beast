@@ -1,0 +1,11 @@
+{
+    "name": "arm-band/crucession_beast",
+    "authors": [
+        {
+            "name": "Arm=Band"
+        }
+    ],
+    "require": {
+        "thecodingcompany/php-mastodon": "^1.0.5"
+    }
+}
